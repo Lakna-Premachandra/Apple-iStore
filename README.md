@@ -48,7 +48,7 @@ The AppleiStore Management System is a versatile and user-friendly application d
 - Update user details
 - Calculate bill amount (there are several discounts for iphone and macbook)
   
-<img width="6340" alt="ss4" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/6abe9448-2c2c-444c-95e7-e36368ba35d9">
+<img width="340" alt="ss4" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/6abe9448-2c2c-444c-95e7-e36368ba35d9">
 <img width="300" alt="ss5" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/1d8cb58e-2341-4eae-85b5-d0737c769aeb">
 <img width="400" alt="ss6" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/fe323620-f47e-4570-8cd3-a5660dc79af6">
 
