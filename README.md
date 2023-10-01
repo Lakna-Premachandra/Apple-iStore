@@ -12,7 +12,7 @@ The AppleiStore Management System is a versatile and user-friendly application d
 - Users can log in with their unique usernames and passwords.
 - Two user levels: Cashier and Manager, each with specific functions.
   
-  <img width="340" alt="ss1" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/7d87451e-c5bd-418a-b799-75647c580d2d">
+<img width="340" alt="ss1" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/7d87451e-c5bd-418a-b799-75647c580d2d">
 <img width="300" alt="ss2" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/63e3af64-2517-49bd-abef-329a20e78fa9">
 
 # Cashier Functions
@@ -50,7 +50,7 @@ The AppleiStore Management System is a versatile and user-friendly application d
   
 <img width="340" alt="ss4" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/6abe9448-2c2c-444c-95e7-e36368ba35d9">
 <img width="300" alt="ss5" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/1d8cb58e-2341-4eae-85b5-d0737c769aeb">
-<img width="400" alt="ss6" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/fe323620-f47e-4570-8cd3-a5660dc79af6">
+<img width="300" alt="ss6" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/fe323620-f47e-4570-8cd3-a5660dc79af6">
 
 # Data Storage
 
