@@ -12,8 +12,8 @@ The AppleiStore Management System is a versatile and user-friendly application d
 - Users can log in with their unique usernames and passwords.
 - Two user levels: Cashier and Manager, each with specific functions.
   
-<img width="340" alt="MAINNEW" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/288fae8e-fc2c-48c8-9f01-6195f489855b">
-<img width="300" alt="LOGIN" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/1e9f58f3-bf16-4448-8817-1cd6d5a3cf99">
+  <img width="340" alt="ss1" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/7d87451e-c5bd-418a-b799-75647c580d2d">
+<img width="300" alt="ss2" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/63e3af64-2517-49bd-abef-329a20e78fa9">
 
 # Cashier Functions
 
@@ -25,7 +25,7 @@ The AppleiStore Management System is a versatile and user-friendly application d
 - Search stock details based on item code
 - Calculate bill amount (there are several discounts for iphone and macbook)
 
-<img width="340" alt="CASHIER" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/14b4ec46-49cd-4227-a3a4-7a77fa018b8c">
+<img width="340" alt="ss3" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/33e745e3-8cdc-4682-8b1a-04b5ca441dde">
 
 # Manager Functions
 
@@ -47,11 +47,10 @@ The AppleiStore Management System is a versatile and user-friendly application d
 - Delete users
 - Update user details
 - Calculate bill amount (there are several discounts for iphone and macbook)
-
-<img width="340" alt="MANAGER" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/24564fba-fa0f-4396-9308-d51bd793ea8c">
-<img width="300" alt="manager add" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/35a75d13-3a87-403a-9e8a-66d87b041b6f">
-<img width="300" alt="managerview" src="https://github.com/MMNLakna/AppleiStore/assets/136817118/35060da0-630e-4df9-ae9b-d146de861aa5">
-
+  
+<img width="6340" alt="ss4" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/6abe9448-2c2c-444c-95e7-e36368ba35d9">
+<img width="300" alt="ss5" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/1d8cb58e-2341-4eae-85b5-d0737c769aeb">
+<img width="400" alt="ss6" src="https://github.com/MMNLakna/Apple-iStore/assets/136817118/fe323620-f47e-4570-8cd3-a5660dc79af6">
 
 # Data Storage
 
